@@ -32,10 +32,10 @@ We implemented and analyzed two trading strategies:
 
 ## Repository Structure
 - `Quant_project-report.pdf` - Report of implementations of models
+- `README.md` – Project description and instructions.
 - `ZScore_Strategy.ipynb` – Implementation of the dynamic Z-Score strategy.  
 - `Kalman_Strategy.ipynb` – Implementation of the Kalman residual strategy.  
 - `data.parquet` – Input dataset (minute-level IVs).  
-- `README.md` – Project description and instructions.
 
 ## Author
 
